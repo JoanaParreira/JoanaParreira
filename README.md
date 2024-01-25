@@ -3,7 +3,7 @@
 
 <img align ="right" alt="Coding" width="400" src="https://i2.wp.com/mir-s3-cdn-cf.behance.net/project_modules/max_1200/4283b367578677.5b3e5c21edefc.gif">
 
-- 🔭 I’m currently working on **Tic Tac Toe**
+- 🔭 I’m currently working on **Tic Tac Toe and Age Calculator**
 
 - 🌱 I’m currently learning **React Native**
 
